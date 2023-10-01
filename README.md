@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Pursuing an M.Tech (Integrated) in Computer Science from NIET.<br><br>📚 Strong foundation in core computer science concepts, including  data structures, algorithms, and programming languages such as Python, JAVA, JavaScript, Kotlin.<br><br>💡 Keen interest in emerging technologies like Artificial Intelligence, Machine Learning, and Data Science.<br><br>🌐 Skilled in problem-solving and critical thinking, with the ability to transform challenges into potential opportunities.<br><br>🛠️ Skills:<br><br>💻 Proficient in Python, Web Development, UI/UX.<br><br>📊 Data-driven decision-maker with a knack for data analysis and visualization.<br><br>🧠 Quick learner with a passion for staying updated on the latest industry trends.</p>
+<p align="left">🎓 Pursuing an M.Tech (Integrated) in Computer Science from NIET.<br>📚 Strong foundation in core computer science concepts, including  data structures, algorithms, and programming languages such as Python, JAVA, JavaScript, Kotlin.<br>💡 Keen interest in emerging technologies like Artificial Intelligence, Machine Learning, and Data Science.<br>🌐 Skilled in problem-solving and critical thinking, with the ability to transform challenges into potential opportunities.<br><b>🛠️ Skills:</b><br>💻 Proficient in Python, Web Development, UI/UX.<br>📊 Data-driven decision-maker with a knack for data analysis and visualization.<br>🧠 Quick learner with a passion for staying updated on the latest industry trends.</p>
 
 ###
 
